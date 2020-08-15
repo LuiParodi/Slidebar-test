@@ -1,3 +1,5 @@
+![Png](https://github.com/[D3Furfur]/[Slidebar-test]/blob/[bg]/SideBar CSS Furfur.png?raw=true)
+
 ### Hi there, I'm Luigui - AKA [D3 Furfur][website] 👋
 
 ## I'm a Software Engineer, Developer, and Professional Gamer!
