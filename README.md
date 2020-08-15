@@ -1,4 +1,5 @@
-![Png](https://github.com/[D3Furfur]/[Slidebar-test]/blob/[bg]/SideBar CSS Furfur.png?raw=true)
+![SideBar CSS   Furfur](https://user-images.githubusercontent.com/69269299/90319618-51493380-deff-11ea-993f-478752590b79.png)
+
 
 ### Hi there, I'm Luigui - AKA [D3 Furfur][website] 👋
 
